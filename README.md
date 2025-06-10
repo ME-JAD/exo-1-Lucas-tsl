@@ -1,4 +1,10 @@
 # Foo-Bar-Baz-Qux-Corge-Grault
+# ---------------------
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jadjoubran/foo-bar-baz-qux-corge-grault/Java%20CI?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/jadjoubran/foo-bar-baz-qux-corge-grault?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jadjoubran/foo-bar-baz-qux-corge-grault?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/jadjoubran/foo-bar-baz-qux-corge-grault?style=flat-square)
 
 # Association - Agrégation - Composition
 
